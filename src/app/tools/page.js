@@ -3,7 +3,7 @@ import DryMatterCalc from '@/src/components/Tools/DryMatterCalc'; // Adjust the 
 
 const Tools = () => {
   return (
-    <div>
+    <div className="p-8">
       <DryMatterCalc />
     </div>
   );

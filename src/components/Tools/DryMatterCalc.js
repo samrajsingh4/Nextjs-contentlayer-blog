@@ -49,7 +49,7 @@ const DryMatterCalc = () => {
         ))}
         <button
           onClick={calculateDryMatter}
-          className="mt-4 w-full bg-accent hover:bg-accentDark text-white py-2 rounded-md transition-colors duration-200"
+          className="mt-4 w-full bg-accent hover:bg-col2 text-white py-2 rounded-md transition-colors duration-200"
         >
           Calculate
         </button>
